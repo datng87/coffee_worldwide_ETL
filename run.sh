@@ -1,0 +1,1 @@
+FLASK_APP=coffee/app.py flask run
