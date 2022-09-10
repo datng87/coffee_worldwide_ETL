@@ -2,7 +2,7 @@ from .app import db
 
 
 class coffee(db.Model):
-    __tablename__ = 'coffee'
+    __tablename__ = 'coffee_worldwide'
     Country_Code = db.Column(db.String(128)) 
     Country_Name = db.Column(db.String(128),primary_key=True) 
     Market_Year = db.Column(db.Integer,primary_key=True) 
