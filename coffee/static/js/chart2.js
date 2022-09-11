@@ -202,7 +202,7 @@ d3.json(url).then(function (csvData) {
                 y: {
                     title: {
                         display: true,
-                        text: 'Tons',
+                        text: 'Tonnes',
                         font: {
                             size: 20
                         }
@@ -235,7 +235,7 @@ d3.json(url).then(function (csvData) {
             automargin: true
         },
         xaxis: {
-            title: "Tons"
+            title: "Tonnes"
         }
     };
     var config = { responsive: true }
@@ -255,7 +255,7 @@ d3.json(url).then(function (csvData) {
     }];
 
     var mlayout = {
-        title: `${cat} Worldwide in ${year_ids[0]}`,
+        title: `${cat} Worldwide in ${year_ids[0]} (Tonnes)`,
         margin: {
             l: 0,
             r: 0,
@@ -387,7 +387,7 @@ function optionChanged() {
                 y: {
                     title: {
                         display: true,
-                        text: 'Tons',
+                        text: 'Tonnes',
                         font: {
                             size: 20
                         }
@@ -518,7 +518,7 @@ function radioChanged() {
                 y: {
                     title: {
                         display: true,
-                        text: 'Tons',
+                        text: 'Tonnes',
                         font: {
                             size: 20
                         }
@@ -586,7 +586,7 @@ function yearChanged() {
             automargin: true
         },
         xaxis: {
-            title: "Tons"
+            title: "Tonnes"
         }
     };
     var config = { responsive: true }
@@ -607,7 +607,7 @@ function yearChanged() {
     }];
 
     var mlayout = {
-        title: `${cat} Worldwide in ${year}`,
+        title: `${cat} Worldwide in ${year} (Tonnes)`,
         margin: {
             l: 0,
             r: 0,
@@ -679,7 +679,7 @@ function categoryChanged() {
             automargin: true
         },
         xaxis: {
-            title: "Tons"
+            title: "Tonnes"
         }
     };
     var config = { responsive: true }
@@ -701,7 +701,7 @@ function categoryChanged() {
     }];
 
     var mlayout = {
-        title: `${cat} Worldwide in ${year}`,
+        title: `${cat} Worldwide in ${year} (Tonnes)`,
         margin: {
             l: 0,
             r: 0,
