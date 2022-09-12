@@ -8,7 +8,7 @@ Below is the process to develope this app.
 ![alt text](images/process.jpg)
 
 Here is how the app looks like.
-![alt text](https://github.com/datng87/coffee_worldwide_ETL/tree/main/images/project2.gif)
+![alt text](images/project2.gif)
 
 ### Some of the findings that I discovered:
 - 7 of top 10 coffee production countries are not in the top 10 coffee consumption countries. Majority of the productions are exported in coffee bean state. 
