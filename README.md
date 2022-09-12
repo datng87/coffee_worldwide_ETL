@@ -5,7 +5,7 @@ In this projects, I will visualize the above data on various charts including ch
 This is a completed standalone project in which the data was loaded to Postgres data base and hosted online (Heroku). An API backend application using Flask is developed to connect and query from the database, then return the data in Json format. A front end application using HTML and JS was use to create a website and visualization chart.
 
 Below is the process to develope this app.
-![alt text](https://github.com/datng87/coffee_worldwide_ETL/tree/main/images/process.jpg)
+![alt text](images/process.jpg)
 
 Here is how the app looks like.
 ![alt text](https://github.com/datng87/coffee_worldwide_ETL/tree/main/images/project2.gif)
