@@ -5,10 +5,10 @@ In this projects, I will visualize the above data on various charts including ch
 This is a completed standalone project in which the data was loaded to Postgres data base and hosted online (Heroku). An API backend application using Flask is developed to connect and query from the database, then return the data in Json format. A front end application using HTML and JS was use to create a website and visualization chart.
 
 Below is the process to develope this app.
-{{< figure src="/images/process.jpg" title="" >}}
+![alt text](https://github.com/datng87/coffee_worldwide_ETL/tree/main/images/process.jpg)
 
 Here is how the app looks like.
-{{< figure src="/images/project2.gif" title="" >}}
+![alt text](https://github.com/datng87/coffee_worldwide_ETL/tree/main/images/project2.gif)
 
 ### Some of the findings that I discovered:
 - 7 of top 10 coffee production countries are not in the top 10 coffee consumption countries. Majority of the productions are exported in coffee bean state. 
