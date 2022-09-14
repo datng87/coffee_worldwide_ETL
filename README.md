@@ -7,6 +7,17 @@ This is a completed standalone project in which the data was loaded to Postgres 
 Below is the process to develope this app.
 ![alt text](images/process.jpg)
 
+**Tools used:**
+- Data ETL using Python / Jupyter Notebook
+- Flask
+- SQL Alchemy
+- HTML
+- ChartJS
+- Plotly
+- D3.js
+- Bootstrap
+- Heroku, Postgres
+
 Here is how the app looks like.
 ![alt text](images/project2.gif)
 
