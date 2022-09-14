@@ -30,8 +30,6 @@ Here is how the app looks like.
 
 The application was deployed successfully on Heroku at **https://world-coffee.herokuapp.com/** with database using free plan Heroku PostgreSQL. 
 
-****Note 1**: On 25/8/2022, Heroku announced that the free plan hosting for hobbyist will no longer be available Starting 28/11/2022, thus the app will not be able to accessed after that time.
-
-****Note 2**: Heroku has free dyno plan, which means the app is going to sleep after 30mins inactive. In some rare instances, it may take a few refreshes for the app to wake up and load correctly.
+****Note**: On 25/8/2022, Heroku announced that the free plan hosting for hobbyist will no longer be available Starting 28/11/2022, thus the app will not be able to accessed after that time.
 
 If you would like to see the Heroku ready to deploy app, please visit **https://github.com/datng87/coffee_worldwide_ETL**
